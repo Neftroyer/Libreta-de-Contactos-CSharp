@@ -1,0 +1,14 @@
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\bin\Debug\net8.0\LibretadeContacto.exe
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\bin\Debug\net8.0\LibretadeContacto.deps.json
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\bin\Debug\net8.0\LibretadeContacto.runtimeconfig.json
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\bin\Debug\net8.0\LibretadeContacto.dll
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\bin\Debug\net8.0\LibretadeContacto.pdb
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\obj\Debug\net8.0\LibretadeContacto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\obj\Debug\net8.0\LibretadeContacto.AssemblyInfoInputs.cache
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\obj\Debug\net8.0\LibretadeContacto.AssemblyInfo.cs
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\obj\Debug\net8.0\LibretadeContacto.csproj.CoreCompileInputs.cache
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\obj\Debug\net8.0\LibretadeContacto.dll
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\obj\Debug\net8.0\refint\LibretadeContacto.dll
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\obj\Debug\net8.0\LibretadeContacto.pdb
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\obj\Debug\net8.0\LibretadeContacto.genruntimeconfig.cache
+C:\Neftali\user\Documents\COMP2315\LibretadeContacto\obj\Debug\net8.0\ref\LibretadeContacto.dll
